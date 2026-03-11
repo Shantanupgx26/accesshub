@@ -122,7 +122,7 @@ Admin-only navigation items are conditionally rendered based on `user.role`, ens
 
 ## 🌐 Live Demo
 
-**[accesshub.vercel.app](https://accesshub.vercel.app)**
+**[accesshub.vercel.app](https://accesshub-sg-of8y.vercel.app/)**
 
 ---
 
